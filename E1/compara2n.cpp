@@ -13,7 +13,7 @@ int main()
 
 
 	}else{
-	if(x==y){
+	if(x<y){
 	  cout<<" El valor de x "<<x<<" Es menor a y " <<y<<endl;
 
 	  }else{
